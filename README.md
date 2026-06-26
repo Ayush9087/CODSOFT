@@ -24,3 +24,20 @@
 ---
 
 ## 📁 Folder Structure
+
+CODSOFT/
+
+├── task1_todo/
+
+│   └── todo.py
+
+├── task3_password_generator/
+
+│   └── password_generator.py
+
+└── task5_contact_book/
+
+└── contact_book.py
+
+---
+Made with ❤️ by Ayush Panchal
